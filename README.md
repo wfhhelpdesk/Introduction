@@ -1,6 +1,5 @@
 # Introduction
-Documentation for Support Services
-
+Work From Home Helpdesk Support
 TORONTO, ON
 
 We are a small team of IT Professionals providing full-spectrum IT services with an open and simple approach to troubleshooting issues for users working from home. We are located in Downtown Toronto and we can provide consultations via Phone, Instant Messaging, and Email for residents in the Greater Toronto Area. We will help anyone using desktop and laptops running Windows, MACOS, or Linux operating systems.
