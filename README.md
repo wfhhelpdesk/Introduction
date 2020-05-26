@@ -10,4 +10,4 @@ WFHHD is open to anyone who seeks technical support for (most) PC or Apple Deskt
 
 Mission
 
-We have provided IT consulting services for over 15 years privately in Toronto. We strive to be a quick, simple and effective support service for troubleshooting issues to help those who are home working and are stuck with hardware and/or software issues. Most of our services do not require remote access to users' PCs and we will never ask anyone for personal information or online account access.
+We are an IT consulting service with experience of over 15 years privately in Toronto. We strive to be a quick, simple and effective support service for troubleshooting issues to help those who are home working and are stuck with hardware and/or software issues. Most of our services do not require remote access to users' PCs and we will never ask anyone for personal information or online account access.
